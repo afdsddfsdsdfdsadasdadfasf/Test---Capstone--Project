@@ -1,2 +1,2 @@
 # Test---Capstone--Project
-test repo
+test repo for GIT commmands demonstration
